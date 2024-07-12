@@ -1,3 +1,13 @@
 john,123,0
 john,123,250
 z1rass,z1rass,300
+roman,123,400
+roman,123,225
+roman,123,275
+roman,123,375
+roman,,525
+jfk,123,200
+123,123,-175
+john,,300
+roman,,350
+whznot,123,250
